@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\repositories\\orderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\repositories\\orderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\models\\custumermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\models\\custumermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\models\\ordelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\models\\ordelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\interfaces\\icostumerrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\interfaces\\icostumerrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\interfaces\\ioderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\interfaces\\ioderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\exception\\customerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\exception\\customerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\exception\\orderexpxion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\exception\\orderexpxion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurantepedidos.infrastructure\\context\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A7498-F174-4618-8C67-3F00074F0B2B}|RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj|solutionrelative:restaurantepedidos.infrastructure\\context\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurante.domain\\repository\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\repository\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurante.domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurante.domain\\entities\\custumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\entities\\custumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurante.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurante.domain\\restaurante.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\restaurante.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurante.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\polar\\desktop\\programacion2\\restaurantepedidos\\restaurante.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:10:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Repositories\\OrderRepositories.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Repositories\\OrderRepositories.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Repositories\\OrderRepositories.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Repositories\\OrderRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:09:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustumerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Models\\CustumerModel.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Models\\CustumerModel.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Models\\CustumerModel.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Models\\CustumerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:08:50.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdelModel.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Models\\OrdelModel.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Models\\OrdelModel.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Models\\OrdelModel.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Models\\OrdelModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:08:16.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IcostumerRepositoty.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Interfaces\\IcostumerRepositoty.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Interfaces\\IcostumerRepositoty.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Interfaces\\IcostumerRepositoty.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Interfaces\\IcostumerRepositoty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:06:14.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IoderREpository.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Interfaces\\IoderREpository.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Interfaces\\IoderREpository.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Interfaces\\IoderREpository.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Interfaces\\IoderREpository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:05:09.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerException.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Exception\\CustomerException.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Exception\\CustomerException.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Exception\\CustomerException.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Exception\\CustomerException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:03:43.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderExpxion.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Exception\\OrderExpxion.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Exception\\OrderExpxion.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Exception\\OrderExpxion.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Exception\\OrderExpxion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:02:57.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\Core\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\Core\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:01:56.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\context\\Restaurante.cs",
+              "RelativeDocumentMoniker": "RestaurantePedidos.Infrastructure\\context\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\context\\Restaurante.cs",
+              "RelativeToolTip": "RestaurantePedidos.Infrastructure\\context\\Restaurante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:59:03.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Repository\\ClassRepository.cs",
+              "RelativeDocumentMoniker": "Restaurante.Domain\\Repository\\ClassRepository.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Repository\\ClassRepository.cs",
+              "RelativeToolTip": "Restaurante.Domain\\Repository\\ClassRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:56:58.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Restaurante.Domain\\Entities\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Entities\\MenuItem.cs",
+              "RelativeToolTip": "Restaurante.Domain\\Entities\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:54:59.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Custumer.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Entities\\Custumer.cs",
+              "RelativeDocumentMoniker": "Restaurante.Domain\\Entities\\Custumer.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Entities\\Custumer.cs",
+              "RelativeToolTip": "Restaurante.Domain\\Entities\\Custumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:54:25.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Restaurante.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Restaurante.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:53:31.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Restaurante.Domain\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "Restaurante.Domain\\Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:43:49.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Restaurante.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Restaurante.Domain.csproj",
+              "RelativeDocumentMoniker": "Restaurante.Domain\\Restaurante.Domain.csproj",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Restaurante.Domain.csproj",
+              "RelativeToolTip": "Restaurante.Domain\\Restaurante.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T06:42:13.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "person.cs",
+              "DocumentMoniker": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Core\\person.cs",
+              "RelativeDocumentMoniker": "Restaurante.Domain\\Core\\person.cs",
+              "ToolTip": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Core\\person.cs",
+              "RelativeToolTip": "Restaurante.Domain\\Core\\person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:28:08.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
