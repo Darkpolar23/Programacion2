@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
       "projectName": "RestaurantePedidos.Infrastructure",
-      "projectPath": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Dell E7450\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell E7450\\AppData\\Roaming\\NuGet\\NuGet.Config",

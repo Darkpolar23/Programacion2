@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Restaurante.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\Restaurante.Domain\\Restaurante.Domain.csproj",
       "projectName": "Restaurante.Domain",
-      "projectPath": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\Restaurante.Domain.csproj",
+      "projectPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\Restaurante.Domain\\Restaurante.Domain.csproj",
       "packagesPath": "C:\\Users\\Dell E7450\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\Restaurante.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\Restaurante.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell E7450\\AppData\\Roaming\\NuGet\\NuGet.Config",
