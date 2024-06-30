@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Polar\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell E7450\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
       "projectName": "RestaurantePedidos.Infrastructure",
-      "projectPath": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Polar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Polar\\Desktop\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Dell E7450\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell E7450\\Source\\Repos\\Programacion2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Polar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell E7450\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
