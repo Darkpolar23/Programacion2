@@ -1,15 +1,18 @@
-﻿namespace APIrestaurante.Models
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace APIrestaurante.Models
 {
     public class Pedidosmodel
     {
+
         public class Cliente
         {
-            public string? Id { get; set; }
-            public string? Nombre { get; set; }
-            public string? Npedido { get; set; }
-            public string? Detallespedidos { get; set; }
-            public string? Costopedido { get; set; }
-            public string? Fechapedido { get; set; }
+            public Guid Id { get; set; }
+            public required string? full_nombre { get; set; }
+            public string? Numeropedido { get; set; }
+            public required string? Detallespedidos { get; set; }
+            public decimal? Costopedido { get; set; }
+            public DateOnly Fechapedido { get; set; }
 
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj": {}
+    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj": {
+    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj",
+        "projectUniqueName": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj",
         "projectName": "APIrestaurante",
-        "projectPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj",
+        "projectPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\APIrestaurante\\APIrestaurante.csproj",
         "packagesPath": "C:\\Users\\Dell E7450\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\obj\\",
+        "outputPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\APIrestaurante\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell E7450\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,9 +46,43 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.ApiDescription.Server": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj": {}
+    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj": {
+    "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
         "projectName": "RestaurantePedidos.Infrastructure",
-        "projectPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\RestaurantePedidos.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Dell E7450\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\RestaurantePedidos.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell E7450\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

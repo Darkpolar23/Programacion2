@@ -1,0 +1,15 @@
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\bin\Debug\net8.0\Restaurante.Aplication.deps.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\bin\Debug\net8.0\Restaurante.Aplication.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\bin\Debug\net8.0\Restaurante.Aplication.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.AssemblyInfoInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.AssemblyInfo.cs
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.sourcelink.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\refint\Restaurante.Aplication.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\ref\Restaurante.Aplication.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\bin\Debug\net8.0\Restaurante.Aplication.runtimeconfig.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.csproj.AssemblyReference.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestauranteAplication\obj\Debug\net8.0\Restaurante.Aplication.genruntimeconfig.cache

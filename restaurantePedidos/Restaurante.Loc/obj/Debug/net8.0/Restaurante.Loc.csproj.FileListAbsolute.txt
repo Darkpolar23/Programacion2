@@ -1,0 +1,15 @@
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\bin\Debug\net8.0\Restaurante.Loc.deps.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\bin\Debug\net8.0\Restaurante.Loc.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\bin\Debug\net8.0\Restaurante.Loc.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.AssemblyInfoInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.AssemblyInfo.cs
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.csproj.CoreCompileInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.sourcelink.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\refint\Restaurante.Loc.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\ref\Restaurante.Loc.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\bin\Debug\net8.0\Restaurante.Loc.runtimeconfig.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.csproj.AssemblyReference.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Loc\obj\Debug\net8.0\Restaurante.Loc.genruntimeconfig.cache

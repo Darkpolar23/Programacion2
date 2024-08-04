@@ -1,50 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restauranteaplication\\service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|solutionrelative:restauranteaplication\\service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\programacio2\\restaurantepedidos\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restauranteaplication\\dto\\dtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|solutionrelative:restauranteaplication\\dto\\dtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\programacio2\\restaurantepedidos\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restauranteaplication\\restaurante.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|solutionrelative:restauranteaplication\\restaurante.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\programacio2\\restaurantepedidos\\webapplication1\\controllers\\modelsrestaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\modelsrestaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restauranteaplication\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|solutionrelative:restauranteaplication\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\programacio2\\restaurantepedidos\\webapplication1\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A13F346-1427-4E7B-BFBE-F3C9E60B9D5E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restauranteaplication\\core\\ibbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|solutionrelative:restauranteaplication\\core\\ibbaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restauranteaplication\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|solutionrelative:restauranteaplication\\core\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restauranteaplication\\contrat\\idrestauranteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D341D77-7D9C-4EFC-A871-0546FC13E55E}|RestauranteAplication\\Restaurante.Aplication.csproj|solutionrelative:restauranteaplication\\contrat\\idrestauranteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{516FE9F6-C371-4B7F-94C1-BEEF831AC12E}|Restaurante.Loc\\Restaurante.Loc.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restaurante.loc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{516FE9F6-C371-4B7F-94C1-BEEF831AC12E}|Restaurante.Loc\\Restaurante.Loc.csproj|solutionrelative:restaurante.loc\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\restaurante.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C362D9E3-FF3C-4835-9FED-F30CDDEC0717}|Restaurante.Domain\\Restaurante.Domain.csproj|solutionrelative:restaurante.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B435D83F-D3D8-4C38-AE45-04AA46E42F17}|APIrestaurante\\APIrestaurante.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\apirestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B435D83F-D3D8-4C38-AE45-04AA46E42F17}|APIrestaurante\\APIrestaurante.csproj|solutionrelative:apirestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B435D83F-D3D8-4C38-AE45-04AA46E42F17}|APIrestaurante\\APIrestaurante.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\pro2.0\\restaurantepedidos\\apirestaurante\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B435D83F-D3D8-4C38-AE45-04AA46E42F17}|APIrestaurante\\APIrestaurante.csproj|solutionrelative:apirestaurante\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{811EF5D2-EC11-4769-A489-B62FB2F3FAE7}|Apirestaurant\\Apirestaurant.csproj|c:\\users\\dell e7450\\onedrive\\escritorio\\programacio2\\restaurantepedidos\\apirestaurant\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811EF5D2-EC11-4769-A489-B62FB2F3FAE7}|Apirestaurant\\Apirestaurant.csproj|solutionrelative:apirestaurant\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,154 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\Restaurante.Domain\\Core\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Restaurante.Domain\\Core\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\Restaurante.Domain\\Core\\BaseEntity.cs",
-              "RelativeToolTip": "Restaurante.Domain\\Core\\BaseEntity.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T06:43:49.669Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Service\\ClientService.cs",
-              "RelativeDocumentMoniker": "RestauranteAplication\\Service\\ClientService.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Service\\ClientService.cs",
-              "RelativeToolTip": "RestauranteAplication\\Service\\ClientService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:55:48.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DtoService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Dto\\DtoService.cs",
-              "RelativeDocumentMoniker": "RestauranteAplication\\Dto\\DtoService.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Dto\\DtoService.cs",
-              "RelativeToolTip": "RestauranteAplication\\Dto\\DtoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:54:48.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceResult.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Core\\ServiceResult.cs",
-              "RelativeDocumentMoniker": "RestauranteAplication\\Core\\ServiceResult.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Core\\ServiceResult.cs",
-              "RelativeToolTip": "RestauranteAplication\\Core\\ServiceResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:52:02.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBbaseService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Core\\IBbaseService.cs",
-              "RelativeDocumentMoniker": "RestauranteAplication\\Core\\IBbaseService.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Core\\IBbaseService.cs",
-              "RelativeToolTip": "RestauranteAplication\\Core\\IBbaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:51:03.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Core\\BaseService.cs",
-              "RelativeDocumentMoniker": "RestauranteAplication\\Core\\BaseService.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Core\\BaseService.cs",
-              "RelativeToolTip": "RestauranteAplication\\Core\\BaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:50:06.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Restaurante.Aplication",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Restaurante.Aplication.csproj",
-              "RelativeDocumentMoniker": "RestauranteAplication\\Restaurante.Aplication.csproj",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\Restaurante.Aplication.csproj",
-              "RelativeToolTip": "RestauranteAplication\\Restaurante.Aplication.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-30T02:49:19.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDrestauranteService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\contrat\\IDrestauranteService.cs",
-              "RelativeDocumentMoniker": "RestauranteAplication\\contrat\\IDrestauranteService.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\RestauranteAplication\\contrat\\IDrestauranteService.cs",
-              "RelativeToolTip": "RestauranteAplication\\contrat\\IDrestauranteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:49:15.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\Restaurante.Loc\\Class1.cs",
-              "RelativeDocumentMoniker": "Restaurante.Loc\\Class1.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\Restaurante.Loc\\Class1.cs",
-              "RelativeToolTip": "Restaurante.Loc\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:45:50.933Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\Program.cs",
-              "RelativeDocumentMoniker": "APIrestaurante\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\Program.cs",
-              "RelativeToolTip": "APIrestaurante\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ModelsRestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Controllers\\ModelsRestaurantsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ModelsRestaurantsController.cs",
+              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Controllers\\ModelsRestaurantsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ModelsRestaurantsController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAH8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:30:10.515Z",
+              "WhenOpened": "2024-08-04T02:26:39.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Pedidosmodel.cs",
-              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\Models\\Pedidosmodel.cs",
-              "RelativeDocumentMoniker": "APIrestaurante\\Models\\Pedidosmodel.cs",
-              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\pro2.0\\restaurantePedidos\\APIrestaurante\\Models\\Pedidosmodel.cs",
-              "RelativeToolTip": "APIrestaurante\\Models\\Pedidosmodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:28:05.71Z",
+              "WhenOpened": "2024-08-04T02:26:28.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\Apirestaurant\\Context\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "Apirestaurant\\Context\\AppDBcontext.cs",
+              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\Apirestaurant\\Context\\AppDBcontext.cs",
+              "RelativeToolTip": "Apirestaurant\\Context\\AppDBcontext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T02:07:36.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Models\\Pedidos.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Models\\Pedidos.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Pedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T02:01:46.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell E7450\\OneDrive\\Escritorio\\Programacio2\\restaurantePedidos\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T01:37:01.984Z",
               "EditorCaption": ""
             }
           ]

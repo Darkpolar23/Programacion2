@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿/*
+using Microsoft.AspNetCore.Mvc;
 using static APIrestaurante.Models.Pedidosmodel;
 
 namespace APIrestaurante.Controllers
@@ -16,21 +17,21 @@ namespace APIrestaurante.Controllers
             {
                 new Cliente
                 {
-                    Id ="1",
+                    Id = 1,
                     Nombre = "jose",
                     Npedido = "12",
                     Detallespedidos = "Pollo frito",
-                    Costopedido = "1000",
+                    Costopedido = 1000,
                     Fechapedido = "8-9-2024"
                 },
 
                 new Cliente
                 {
-                    Id ="2",
+                    Id = 2,
                     Nombre = "maria",
                     Npedido = "8",
                     Detallespedidos = "Pollo frito",
-                    Costopedido = "1000",
+                    Costopedido = 1000,
                     Fechapedido = "8-9-2024"
                 }
             };
@@ -41,7 +42,7 @@ namespace APIrestaurante.Controllers
         // cuando el metodo cambia obtiene parametros el return cambia ya que le in dicamos que hay unas nuevas instancias.
         [HttpGet]
         [Route("BuscarClienteID")]
-        public dynamic ClientID(string _id, string _Nombre, string _Npedido, string _Detallespedido, string _Costopedido, string _Fechapedido)
+        public dynamic ClientID(string _id, string _Nombre, string _Npedido, string _Detallespedido, decimal _Costopedido, string _Fechapedido)
         {
             return new Cliente
             {
@@ -60,7 +61,7 @@ namespace APIrestaurante.Controllers
 
         public dynamic GuardarCliente(Cliente cliente)
         {
-            cliente.Id = "3";
+            cliente.Id = 3;
 
             return new
             {
@@ -91,3 +92,4 @@ namespace APIrestaurante.Controllers
 
 
 }
+*/

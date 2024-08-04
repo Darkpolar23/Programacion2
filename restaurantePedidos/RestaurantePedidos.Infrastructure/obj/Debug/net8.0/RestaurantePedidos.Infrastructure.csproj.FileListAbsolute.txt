@@ -1,0 +1,15 @@
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\bin\Debug\net8.0\RestaurantePedidos.Infrastructure.deps.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\bin\Debug\net8.0\RestaurantePedidos.Infrastructure.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\bin\Debug\net8.0\RestaurantePedidos.Infrastructure.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.sourcelink.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\refint\RestaurantePedidos.Infrastructure.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\ref\RestaurantePedidos.Infrastructure.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\bin\Debug\net8.0\RestaurantePedidos.Infrastructure.runtimeconfig.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\RestaurantePedidos.Infrastructure\obj\Debug\net8.0\RestaurantePedidos.Infrastructure.genruntimeconfig.cache

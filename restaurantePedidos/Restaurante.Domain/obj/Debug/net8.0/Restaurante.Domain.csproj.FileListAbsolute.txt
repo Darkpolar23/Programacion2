@@ -1,0 +1,15 @@
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\bin\Debug\net8.0\Restaurante.Domain.deps.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\bin\Debug\net8.0\Restaurante.Domain.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\bin\Debug\net8.0\Restaurante.Domain.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.AssemblyInfo.cs
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.sourcelink.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\refint\Restaurante.Domain.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.pdb
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\ref\Restaurante.Domain.dll
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\bin\Debug\net8.0\Restaurante.Domain.runtimeconfig.json
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell E7450\OneDrive\Escritorio\Programacio2\restaurantePedidos\Restaurante.Domain\obj\Debug\net8.0\Restaurante.Domain.genruntimeconfig.cache

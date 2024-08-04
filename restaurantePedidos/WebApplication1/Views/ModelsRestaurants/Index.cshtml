@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Apirestaurant.Models.ModelsRestaurant>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Full_nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numeropedido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Detallespedidos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Costopedido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fechapedido)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Full_nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numeropedido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Detallespedidos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Costopedido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fechapedido)
+            </td>
+            <td>
+                    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" class="btn btn-primary" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" class="btn btn-darger" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
